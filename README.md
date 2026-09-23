@@ -3,7 +3,7 @@
 葡語科的電子白板遊戲：教室分紅藍兩隊，同時作答同一題，答對的一方在遊戲裡得到好處。
 知識點會陸續增加；每張遊戲卡上列出目前有的題庫。
 
-**開始：<https://jinnamcyber.github.io/silabas-bahe/>**
+**開始：<https://jinnamcyber.github.io/sabe-jogar-sabe-falar/>**
 
 六個遊戲：搶答拔河、立體井字、炸彈傳遞、翻轉棋、賓果對決、蛇梯賽跑。
 每個遊戲頁都是單一 HTML 檔，可離線用。老師快捷鍵：左隊 1 2 3 4、右隊 Z X C V，空白鍵下一題，F 全螢幕。
